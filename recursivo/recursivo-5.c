@@ -1,4 +1,4 @@
-/* Escreva uma função iterativa em C que faça o fatorial de n*/
+/* Escreva uma função recursiva que inverta uma palavra e verifique se ela é um palindromo*/
 
 #include <stdio.h>
 
